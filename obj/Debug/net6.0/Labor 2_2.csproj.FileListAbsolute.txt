@@ -1,0 +1,15 @@
+D:\proj\Labor 2_2\bin\Debug\net6.0\Labor 2_2.exe
+D:\proj\Labor 2_2\bin\Debug\net6.0\Labor 2_2.deps.json
+D:\proj\Labor 2_2\bin\Debug\net6.0\Labor 2_2.runtimeconfig.json
+D:\proj\Labor 2_2\bin\Debug\net6.0\Labor 2_2.dll
+D:\proj\Labor 2_2\bin\Debug\net6.0\ref\Labor 2_2.dll
+D:\proj\Labor 2_2\bin\Debug\net6.0\Labor 2_2.pdb
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.csproj.AssemblyReference.cache
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.AssemblyInfoInputs.cache
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.AssemblyInfo.cs
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.csproj.CoreCompileInputs.cache
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.dll
+D:\proj\Labor 2_2\obj\Debug\net6.0\ref\Labor 2_2.dll
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.pdb
+D:\proj\Labor 2_2\obj\Debug\net6.0\Labor 2_2.genruntimeconfig.cache
